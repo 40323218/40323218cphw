@@ -19,11 +19,11 @@
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
-<v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
+<v t="amd.20151006113136.1"><vh>@path content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
@@ -402,7 +402,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151109133440.1"><vh>@path 40323218</vh>
+<v t="leo.20151109133440.1" a="E"><vh>@path 40323218</vh>
 <v t="leo.20151109133440.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151109133440.3"><vh>@clean 40323218_cp_w2.html</vh>
 <v t="leo.20151109133440.4"><vh>檔案說明</vh></v>
@@ -584,21 +584,21 @@
 <v t="leo.20151109133440.61"><vh>@path pelican</vh>
 <v t="leo.20151109133440.62"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151109133440.63"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151109133440.64"><vh>@path content</vh>
-<v t="leo.20151109133440.65"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151109133440.66"><vh>@edit 2015cpnote1.md</vh></v>
-<v t="leo.20151109133440.67"><vh>@edit 40323218_cp_w2.md</vh></v>
-<v t="leo.20151109133440.68"><vh>@edit 40323218_cp_w4.md</vh></v>
-<v t="leo.20151109133440.69"><vh>@edit 40323218_cp_w5.md</vh></v>
-<v t="leo.20151109133440.70"><vh>@edit 40323218_cp_w6.md</vh></v>
-<v t="leo.20151109133440.71"><vh>@edit 40323218_cp_w7.md</vh></v>
-<v t="leo.20151109133440.72"><vh>@edit 40323218_cp_w8.md</vh></v>
-<v t="leo.20160107003535.1"><vh>@edit 40323218_cp_w11.md</vh></v>
-<v t="leo.20160107003541.1"><vh>@edit 40323218_cp_w12.md</vh></v>
-<v t="leo.20160107003548.1"><vh>@edit 40323218_cp_w13.md</vh></v>
-<v t="leo.20160107003554.1"><vh>@edit 40323218_cp_w14.md</vh></v>
-<v t="leo.20160107003600.1"><vh>@edit 40323218_cp_w15.md</vh></v>
-<v t="leo.20160107003612.1"><vh>@edit 40323218_cp_w16.md</vh></v>
+<v t="leo.20160107004820.1"><vh>@path content</vh>
+<v t="leo.20160107004820.2"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160107004820.3"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20160107004820.4"><vh>@edit 40323218_cp_w2.md</vh></v>
+<v t="leo.20160107004820.5"><vh>@edit 40323218_cp_w4.md</vh></v>
+<v t="leo.20160107004820.6"><vh>@edit 40323218_cp_w5.md</vh></v>
+<v t="leo.20160107004820.7"><vh>@edit 40323218_cp_w6.md</vh></v>
+<v t="leo.20160107004820.8"><vh>@edit 40323218_cp_w7.md</vh></v>
+<v t="leo.20160107004820.9"><vh>@edit 40323218_cp_w8.md</vh></v>
+<v t="leo.20160107004820.10"><vh>@edit 40323218_cp_w11.md</vh></v>
+<v t="leo.20160107004820.11"><vh>@edit 40323218_cp_w12.md</vh></v>
+<v t="leo.20160107004820.12"><vh>@edit 40323218_cp_w13.md</vh></v>
+<v t="leo.20160107004820.13"><vh>@edit 40323218_cp_w14.md</vh></v>
+<v t="leo.20160107004820.14"><vh>@edit 40323218_cp_w15.md</vh></v>
+<v t="leo.20160107004820.15"><vh>@edit 40323218_cp_w16.md</vh></v>
 </v>
 </v>
 </v>
@@ -2485,8 +2485,6 @@ git config --global user.email 自己的信箱&lt;br&gt;
 </t>
 <t tx="leo.20151109133440.61"></t>
 <t tx="leo.20151109133440.62"></t>
-<t tx="leo.20151109133440.64"></t>
-<t tx="leo.20151109133440.65"></t>
 <t tx="leo.20151109133440.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
@@ -2949,5 +2947,7 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 				
 </t>
+<t tx="leo.20160107004820.1"></t>
+<t tx="leo.20160107004820.2"></t>
 </tnodes>
 </leo_file>
