@@ -191,7 +191,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107000650.1"><vh>@clean 40323218_cp_w15.html</vh>
+<v t="leo.20160107000650.1" a="E"><vh>@clean 40323218_cp_w15.html</vh>
 <v t="leo.20160107000650.2"><vh>檔案說明</vh></v>
 <v t="leo.20160107000650.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160107000650.4" a="E"><vh>body 標註</vh>
@@ -206,7 +206,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107000815.1"><vh>@clean 40323218_cp_w16.html</vh>
+<v t="leo.20160107000815.1" a="E"><vh>@clean 40323218_cp_w16.html</vh>
 <v t="leo.20160107000815.2"><vh>檔案說明</vh></v>
 <v t="leo.20160107000815.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160107000815.4" a="E"><vh>body 標註</vh>
@@ -1264,7 +1264,9 @@ git config --global user.email 自己的信箱&lt;br&gt;
 <t tx="leo.20160107000815.9">&lt;section&gt;
     &lt;h2&gt;心得和自評分數&lt;/h2&gt;
     &lt;p&gt;我給自己85分。  &lt;/br&gt;  
-   
+   最後這周幫許多同學修改合調整一些版次&lt;br&gt;&lt;br&gt;sovlespace 驗算用了很多時間&lt;br&gt;&lt;br&gt;因為跟onshape上不能配合&lt;br&gt;&lt;br&gt;感覺繪圖時有尺寸錯誤。&lt;br&gt;&lt;br&gt;
+   感想 :&lt;br&gt; 
+   這學期學到了許多，有許多東西可以有更多的方式去呈現，期待下學期的課程。
     &lt;/p&gt;
 
 &lt;/section&gt;
@@ -1272,7 +1274,10 @@ git config --global user.email 自己的信箱&lt;br&gt;
 </t>
 <t tx="leo.20160109033650.1">&lt;section id="hw-task-one"&gt;
     &lt;h10&gt;期末&lt;/h10&gt;
-    &lt;p&gt;
+    &lt;p&gt;利用 sovlespace 驗算路徑
+    &lt;br&gt;&lt;br&gt;
+    整理+加強前幾周作業&lt;br&gt;&lt;br&gt;
+    準備期末考!!!!!!!!
         &lt;/p&gt;
 &lt;/section&gt;
 				
