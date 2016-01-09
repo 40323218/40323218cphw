@@ -24,21 +24,21 @@
 <v t="leo.20151214110149.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151214110149.2"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151214110149.3"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151214110149.4" a="E"><vh>@path content</vh>
-<v t="leo.20151214110149.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151214110149.6"><vh>@edit 2015cpnote1.md</vh></v>
-<v t="leo.20151214110149.7"><vh>@edit 40323218_cp_w2.md</vh></v>
-<v t="leo.20151214110149.8"><vh>@edit 40323218_cp_w4.md</vh></v>
-<v t="leo.20151214110149.9"><vh>@edit 40323218_cp_w5.md</vh></v>
-<v t="leo.20151214110149.10"><vh>@edit 40323218_cp_w6.md</vh></v>
-<v t="leo.20151214110149.11"><vh>@edit 40323218_cp_w7.md</vh></v>
-<v t="leo.20151214110149.12"><vh>@edit 40323218_cp_w8.md</vh></v>
-<v t="leo.20160107000849.1"><vh>@edit 40323218_cp_w11.md</vh></v>
-<v t="leo.20160107001312.1"><vh>@edit 40323218_cp_w12.md</vh></v>
-<v t="leo.20160107001313.1"><vh>@edit 40323218_cp_w13.md</vh></v>
-<v t="leo.20160107001315.1"><vh>@edit 40323218_cp_w14.md</vh></v>
-<v t="leo.20160107001316.1"><vh>@edit 40323218_cp_w15.md</vh></v>
-<v t="leo.20160107001318.1"><vh>@edit 40323218_cp_w16.md</vh></v>
+<v t="leo.20160109115024.1" a="E"><vh>@path content</vh>
+<v t="leo.20160109115024.2"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160109115024.3"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20160109115024.4"><vh>@edit 40323218_cp_w2.md</vh></v>
+<v t="leo.20160109115024.5"><vh>@edit 40323218_cp_w4.md</vh></v>
+<v t="leo.20160109115024.6"><vh>@edit 40323218_cp_w5.md</vh></v>
+<v t="leo.20160109115024.7"><vh>@edit 40323218_cp_w6.md</vh></v>
+<v t="leo.20160109115024.8"><vh>@edit 40323218_cp_w7.md</vh></v>
+<v t="leo.20160109115024.9"><vh>@edit 40323218_cp_w8.md</vh></v>
+<v t="leo.20160109115024.10"><vh>@edit 40323218_cp_w11.md</vh></v>
+<v t="leo.20160109115024.11"><vh>@edit 40323218_cp_w12.md</vh></v>
+<v t="leo.20160109115024.12"><vh>@edit 40323218_cp_w13.md</vh></v>
+<v t="leo.20160109115024.13"><vh>@edit 40323218_cp_w14.md</vh></v>
+<v t="leo.20160109115024.14"><vh>@edit 40323218_cp_w15.md</vh></v>
+<v t="leo.20160109115024.15"><vh>@edit 40323218_cp_w16.md</vh></v>
 </v>
 </v>
 </v>
@@ -191,7 +191,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107000650.1" a="E"><vh>@clean 40323218_cp_w15.html</vh>
+<v t="leo.20160107000650.1"><vh>@clean 40323218_cp_w15.html</vh>
 <v t="leo.20160107000650.2"><vh>檔案說明</vh></v>
 <v t="leo.20160107000650.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160107000650.4" a="E"><vh>body 標註</vh>
@@ -206,7 +206,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107000815.1" a="E"><vh>@clean 40323218_cp_w16.html</vh>
+<v t="leo.20160107000815.1"><vh>@clean 40323218_cp_w16.html</vh>
 <v t="leo.20160107000815.2"><vh>檔案說明</vh></v>
 <v t="leo.20160107000815.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160107000815.4" a="E"><vh>body 標註</vh>
@@ -336,8 +336,6 @@ jupyter notebook
 </t>
 <t tx="leo.20151214110149.1"></t>
 <t tx="leo.20151214110149.2"></t>
-<t tx="leo.20151214110149.4"></t>
-<t tx="leo.20151214110149.5"></t>
 <t tx="leo.20151214110209.1">@language xml
 @tabwidth -4
 @others
@@ -1279,5 +1277,7 @@ git config --global user.email 自己的信箱&lt;br&gt;
 &lt;/section&gt;
 				
 </t>
+<t tx="leo.20160109115024.1"></t>
+<t tx="leo.20160109115024.2"></t>
 </tnodes>
 </leo_file>
